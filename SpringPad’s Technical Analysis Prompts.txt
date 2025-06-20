@@ -1,0 +1,44 @@
+SpringPad’s Technical Analysis Prompt
+
+Prompt 1 to Fetch Data  
+Give me code to Download [INDEX] past [TIME} years Historical Data from finance Library into an excel sheet in csv format, define time using timedelta function.
+
+
+Prompt 2 to Analyze Data
+Do the following analysis for NIFTY INDEX with the data attached.
+
+1. **Introduction to the Dataset**:
+   - "Can you describe the dataset including its features and date range?"
+2. **Basic Data Analysis**:
+   - "Please provide summary statistics for the NIFTY index over the last 7 years."
+3. **Trend Analysis**:
+   - "Can you identify any trends in the NIFTY index data over the past seven years? Plot a Line Chart"
+4. **Volatility Analysis**:
+   - "Assess the volatility of the NIFTY index based on the historical data provided. Also represent it graphically"
+5.  **Advanced Analysis **:
+   - "Perform a moving average analysis on the NIFTY data."
+6. **Comparative Analysis**:
+   - "Compare the yearly performance of the NIFTY index for the past seven years."
+   - “ Give monthly % returns for NIFTY for using a heat map (positive with green and negative with red) for the past seven years”
+7. **Seasonal Patterns**:
+   - "Analyze if there are any seasonal trends in the NIFTY index data that recur annually with the help of chart and also explain the possible reasons for it"
+
+
+
+
+
+
+
+Prompt 3 to Backtest Data
+1) Take the past 7 years of historical data and calculate the 21 and 50 simple moving averages, representing the data in different columns.
+
+2) We want to build a moving average crossover strategy for 21 and 50 sma, implement the same and give the entry and exit signals. BUY signal = when 21 sma crosses over 50 sma from below and SELL Signal = when 21 sma crosses under 50 sma from above. Show the Buy signal with +1 and Sell Signal with -1, No signal means 0.
+
+3) Now let's backtest this strategy, assuming we have a starting capital of Rs. 2,00,000. Show the Profit and Loss of each trade in the excel sheet, Trade with 1 lot of Nifty Futures = 50 shares.Take both long and short side trades.
+
+4) Give the list of each trade. Also mention total number of trades, Number of profitable trades, Number of loss trades,Compounded returns.
+
+In the end, Let me know if the Strategy is profitable and also how much Profit/loss was made in both absolute and percentage terms.
+
+
+

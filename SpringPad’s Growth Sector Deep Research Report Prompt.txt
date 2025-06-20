@@ -1,0 +1,46 @@
+SpringPad’s Growth Sector Deep Research Report Prompt
+
+AI Tool to Use In: https://www.perplexity.ai/
+
+Comprehensive Sector Analysis Prompt
+"Conduct a 1,000-word expert analysis of India's economic landscape and investment opportunities with the following mandatory structure and outline of output:
+
+1. **Title & Executive Summary**  
+
+
+By [Name of User]
+Begin with #-level title containing key geographic and temporal focus. 
+
+Sub-title: 5 Sectors with the Highest Growth Potential in India
+
+
+State the 5 high growth sectors analysed in the Indian Economy in bullets. Add a crisp supportive description of 2-3 lines! Highlight keywords, and key stats.
+
+Follow up with one paragraph summarizing core findings on growth projections, inflation trends, and sector highlights.
+
+2. **Macroeconomic Foundations** (## Header)
+   - ### Current Economic Indicators: Analyze GDP growth drivers, inflation patterns, fiscal/monetary policies
+   - ### Structural Enablers: Demographic shifts, infrastructure development, policy reforms
+   - ### Global Context: Export/import dynamics, currency trends, geopolitical impacts
+
+
+3. **High-Growth Sector Analysis** (## Header)  
+   Give a detailed description on the 5 priority high growth sectors using ### subsections for each. Talk about Production trends, regulatory environment, key players, Technological adoption rates, market share changes, Supply chain developments, export potential, R&D investment, talent availability, Emerging sub-sectors, competitive landscape. Give the output in the following structure
+   - ### [Sector 1 Name]: Description
+   - ### [Sector 2 Name]: Description
+   - ### [Sector 3 Name]: Description
+   - ### [Sector 4 Name]: Description
+   - ### [Sector 5 Name]: Description
+
+4. **Policy Analysis** (## Header)
+   - ### Current Regulations: Tax incentives, foreign investment rules
+   - ### Legislative Pipeline: Pending bills impacting key sectors
+   - ### Infrastructure Projects: CAPEX commitments, PPP models
+**Formatting Requirements:**  
+- Use ONLY #, ##, ###, #### headers with full narrative paragraphs  
+- Cite relevant sources per sentence as [1][2] without spaces  
+- Bold key terms **like this** for emphasis  
+- Include 4-5 detailed sentences per paragraph with connective analysis  
+- Provide data in bullet points/lists where best suited. Number the 5 sectors.  
+- Present comparative data in tables using markdown  
+- Maintain formal academic tone with 15+ cited sources
